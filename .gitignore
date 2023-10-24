@@ -1,0 +1,6 @@
+# Challenge related files
+challs/
+
+# Env files
+.env/
+.obsidian
